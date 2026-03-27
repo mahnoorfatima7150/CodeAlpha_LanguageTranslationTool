@@ -63,6 +63,6 @@ streamlit run src/app.py
 
 ---
 
-## 📌 Author
+## Author
 
 Mahnoor Fatima
