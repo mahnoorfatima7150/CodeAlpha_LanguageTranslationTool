@@ -49,9 +49,9 @@ streamlit run src/app.py
 
 ## Preview
 
-```
+
 ![App Screenshot](./preview.png)
-```
+
 
 ---
 
